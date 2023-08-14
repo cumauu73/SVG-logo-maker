@@ -1,0 +1,6 @@
+<svg version="1.1"
+    width="300" height="300"
+    xmlns="http://www.w3.org/2000/svg">
+    <polygon points="150, 20 245, 140 50, 140" fill="Red" />
+    <text x="150" y="125" font-size="50" text-anchor="middle" fill="Yellow">CU</text>
+</svg>
